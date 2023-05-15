@@ -1,41 +1,4 @@
-*{
-    text-align: center;
-}
 body{
     background-color: aliceblue;
+    font-family: sans-serif;
 }
-p{
-    margin-right: 700px;
-    text-align: justify;
-}
-img{
-    width: 300px;
-    height: 300px;
-    float: left;    
-}
-h2{
-    color: blue;
-}
-
-
-
-h2.hello{
-    color: purple;
-}
-#goal{
-    padding: 40px;
-    margin-left: 500px;
-    margin-right: 100px;
-    text-align: center;
-    background-color: blueviolet;
-    color: aliceblue;
-    font-size: 12px bold;
-    font-family: 'Courier New', Courier, monospace;
-}
-
-.clas {
-    width: 300px;
-    border: 15px solid green;
-    padding: 50px;
-    margin: 20px;
-  }
