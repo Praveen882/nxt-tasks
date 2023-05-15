@@ -1,0 +1,95 @@
+body{
+    background-color: aliceblue;
+    font-family: sans-serif;
+    color: blueviolet;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #19376D;
+  }
+
+  li {
+    float: right;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  #tagline{
+    position: absolute;
+    top: 200px;
+    font-size: 50px;
+    color: #111 ;
+  }
+
+  #imgg{
+    width: 500px;
+    height: 400px;
+   position: absolute;
+   left: 780px;
+   top: 122px; 
+  }
+
+  #magnetlead{
+    position: absolute;
+    top: 300px;
+  }
+
+  #about_us{
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    top: 600px;
+    text-align: center;
+  }
+
+  #story{
+    position: absolute;
+    color: black;
+    margin: 40px;
+    top: 800px;
+    display: flex;
+    margin-left: 560px;
+    margin-top: 20px;
+    text-align: justify;
+    font-size: 18px;
+}
+
+.border{
+    width: 100px;
+    height: 80px;
+    padding: 10px;
+    margin-top:50px;
+    border: 2px solid;
+    padding: 10px;
+    box-shadow: 4px 4px;
+    text-align: center;
+    margin-bottom: 100px;
+        
+}
+
+/*footer section*/
+.footer{
+    bottom: 0;
+    width: 100%;
+    height: 70px;
+    margin-top: 50px;
+    background-color: #19376D;
+    text-align: center;
+    font-size: medium;
+    display: inline-block;
+    padding-top: 5px;
+    color: white;
+}
