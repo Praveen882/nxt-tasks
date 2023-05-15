@@ -5,7 +5,7 @@ body{
 h1{
     text-align: center;
 }
-.button{
+
     .button {
         background-color: #917FB3; /*light violet */
         border: none;
@@ -16,4 +16,3 @@ h1{
         display: inline-block;
         font-size: 16px;
       }
-}
